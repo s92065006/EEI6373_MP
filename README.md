@@ -58,11 +58,11 @@ The project uses a **simulated dataset** created for academic purposes. It repre
 
 ## Author
 
-**Name:** P.G.P.Perera
-**Reg.no.:** 321425006
-**Course:** EEI6373 – Performance Modelling
-**Degree:** Bachelor of Software Engineering
-**Institution:** The Open University of Sri Lanka
+* **Name:** P.G.P.Perera
+* **Reg.no.:** 321425006
+* **Course:** EEI6373 – Performance Modelling
+* **Degree:** Bachelor of Software Engineering
+* **Institution:** The Open University of Sri Lanka
 
 ## License
 
