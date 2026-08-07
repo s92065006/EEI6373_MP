@@ -16,11 +16,17 @@ Assess system scalability under increasing traffic demand.
 Propose possible performance improvements.
 Repository Contents
 321425006 EEI6373-MP.docx – Complete mini project report.
+
 traffic_light_performance_dataset.csv – Simulated dataset used for performance analysis.
+
 Traffic Volume vs Response Time.png – Response time analysis graph.
+
 Traffic Volume vs Queue Length.png – Queue length analysis graph.
+
 Traffic Volume vs CPU Utilization.png – CPU utilization graph.
+
 Traffic Volume vs Throughput.png – Throughput analysis graph.
+
 system_architecture_diagram.png – Smart Traffic Light Control System architecture diagram.
 Dataset
 
