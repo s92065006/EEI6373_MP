@@ -55,6 +55,7 @@ The project uses a **simulated dataset** created for academic purposes. It repre
 * Microsoft Word
 * Microsoft Excel
 * GitHub
+* draw io
 
 ## Author
 
