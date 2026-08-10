@@ -37,7 +37,7 @@ The project evaluates the performance of a **Smart Traffic Light Control System*
 EEI6373-Smart-Traffic-Light-Performance-Modelling/
 │
 ├── README.md
-├── 321425006 EEI6373-MP.docx
+├── 321425006 EEI6373-MP.pdf
 ├── traffic_light_performance_dataset.csv
 ├── Traffic Volume vs Response Time.png
 ├── Traffic Volume vs Queue Length.png
